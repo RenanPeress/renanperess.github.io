@@ -37,6 +37,7 @@
 
 .projects ul li .projects__info p {
     margin: 1rem 0 4rem;
+    text-align: justify;
 }
 
 .projects ul li .projects__info a {
